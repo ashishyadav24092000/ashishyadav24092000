@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishyadav24092000(Ashish Kumar Yadav) 
-- 👀 I’m interested in Data Science and programming
-- 🌱 I’m currently learning data analyytics with python, python and C++ langauage
-- 💞️ I’m looking for a job opportunity in the field of Data Science and python developer. 
+- 👀 I’m deeply intrigued by the subject - Data Science (i.e. powerful insights and highly measured decisions)
+- 🌱 I’m currently learning Data Science and  data analytics with python
+- 💞️ I’m currently looking for an internship opportunity in the field of Data Science. 
 - 📫 How to reach me - ashishyadav24092000@gmail.com
 
 <!---
